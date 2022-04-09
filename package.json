@@ -31,7 +31,7 @@
     "express": "^4.17.1",
     "filesize": "^6.0.1",
     "mime-types": "^2.1.25",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "next": "^9.2.2",
     "next-cookies": "^2.0.2",
     "rc-upload": "^2.9.2",
